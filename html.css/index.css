@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap');
+*{.box-sizing.box-sizing:border-box;
+
+    margin: 0;
+    padding 0;
+}
+
+
+.navbare{
+    display: flex;
+    justify-content: space-around;
+    
+}
+body{
+    background-color: grey;
+    margin: 0%;
+
+}
+img{
+padding: 10%;
+width: 700px; ; height: 500px; ;
+margin-top: 50px;
+text-align: center;
+
+}
+h5{
+    color: yellow; font-size:larger
+
+}
+p{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    }
+    #blue-bordered{
+        border: 5px dashed blue;
+
+    }
+    h5,p{
+        border: 1px;
+    }
+    table{
+        width:200 ; height: 190px; ;
+        
+    }
+   .box p{
+    color: red;
+   }
+   article > p{
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: 5px    ;
+   }
+   article >p{
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: 5px    ;
+
+   }
+   div:hover{
+    color:goldenrod;
+   }
+a:active{
+    color: #00f;
+}
+div{
+    padding-left: 5% 
+}
+audio{
+    padding-left: 37%;
+    }
+    div{
+        padding-top: 1px;
+    }
+    div{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        }
+        div{
+        padding-left: 5px;
+        padding-top: 5px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+        border: maroon;
+
+    }
+    
+        img {
+                    
+            padding-left: 50px;
+            padding-top:  0px;
+            padding-bottom: 0px;
+            padding-right: 400px;
+            margin-top: 0;
+        }
+        
+        li,a,button{
+            font-family:"montserate", sans-serif;
+            font-weight: 500;
+            font-size: 16px; 
+            color: wheat;
+            text text-decoration: none;
+        }
+        header{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 30px 10% ;
+        }
+        div{background #ddd;
+            padding: 10px;
+            margin: 10px;px;
+            border: 1px solid green;
+        }
+        .test {
+            width: 50px;
+            height: 50px;
+            border: 1px solid green;
+            display: inline-block;
+          }
+
+ 
+
+    
+
+
+
+
+
